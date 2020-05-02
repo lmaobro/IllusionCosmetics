@@ -16,6 +16,13 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/ignJax/IllusionCosmetics/master/capes/cb_gold.png"
       },
+      "default":{ 
+         "name":"default",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/ignJax/IllusionCosmetics/master/capes/default.png"
+      },
       "2011":{ 
          "name":"2011",
          "type":"cape",
