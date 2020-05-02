@@ -8,13 +8,55 @@
          "scale":0.15,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/ignJax/IllusionCosmetics/master/wings/black.png"
-},
+      },
       "cb_gold":{ 
          "name":"cb_gold",
          "type":"cape",
          "scale":0.15,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/ignJax/IllusionCosmetics/master/capes/cb_gold.png"
+      },
+      "default":{ 
+         "name":"default",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/ignJax/IllusionCosmetics/master/capes/default.png"
+      },
+      "2011":{ 
+         "name":"2011",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/ignJax/IllusionCosmetics/master/capes/2011.png"
+      },
+      "2013":{ 
+         "name":"2013",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/ignJax/IllusionCosmetics/master/capes/2013.png"
+      },
+      "2015":{ 
+         "name":"2015",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/ignJax/IllusionCosmetics/master/capes/2015.png"
+      },
+      "2016":{ 
+         "name":"2016",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/ignJax/IllusionCosmetics/master/capes/2016.png"
+      },
+      "420":{ 
+         "name":"420",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/ignJax/IllusionCosmetics/master/capes/420.png"
       }
    }
 }
