@@ -8,6 +8,13 @@
          "scale":0.15,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/ignJax/IllusionCosmetics/master/wings/black.png"
+},
+      "cb_gold":{ 
+         "name":"cb_gold",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/ignJax/IllusionCosmetics/master/capes/cb_gold.png"
       }
    }
 }
