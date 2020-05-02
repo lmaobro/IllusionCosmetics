@@ -1,0 +1,13 @@
+{ 
+   "uuid":"1bee7c65-d2b4-4289-8a9e-23097825833d",
+   "username":null,
+   "cosmetics":{ 
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/ignJax/IllusionCosmetics/master/wings/black.png"
+      }
+   }
+}
